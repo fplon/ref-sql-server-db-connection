@@ -13,7 +13,7 @@ Python utility for managing SQL Server database connections using SQLAlchemy and
 
 ## Prerequisites
 
-- Python 3.13.0 (Didn't test other versions, but should work)
+- Python 3.13.0 (Didn't test but should work 3.9+)
 - SQL Server ODBC Driver (one of the following):
   - ODBC Driver 17 for SQL Server
   - ODBC Driver 13 for SQL Server
